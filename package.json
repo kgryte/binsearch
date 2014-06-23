@@ -1,0 +1,43 @@
+{
+  "name": "binsearch",
+  "version": "0.0.0",
+  "description": "Perform a bin search over a 1d edge vector",
+  "author": {
+    "name": "Athan Reines",
+    "email": "athan@nodeprime.com"
+  },
+  "contributors": [
+    {
+      "name": "Athan Reines",
+      "email": "athan@nodeprime.com"
+    }
+  ],
+  "scripts": {
+    "test": "mocha"
+  },
+  "main": "./lib",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/kgryte/binsearch.git"
+  },
+  "keywords": [
+    "binning",
+    "histogram",
+    "search",
+    "binary search"
+  ],
+  "bugs": {
+    "url": "https://github.com/kgryte/binsearch/issues"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "1.x.x",
+    "chai": "1.x.x"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://www.opensource.org/licenses/MIT"
+    }
+  ]
+}
