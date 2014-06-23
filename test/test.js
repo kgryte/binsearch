@@ -5,7 +5,7 @@ var // Expectation library:
 	chai = require( 'chai' ),
 
 	// Module to be tested:
-	binsearch = require( './../lib/binsearch.js' );
+	binsearch = require( './../lib' );
 
 
 // VARIABLES //
