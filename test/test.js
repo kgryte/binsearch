@@ -16,7 +16,7 @@ var expect = chai.expect,
 
 // TESTS //
 
-describe( 'stats/histc/binsearch', function tests() {
+describe( 'binsearch', function tests() {
 	'use strict';
 
 	it( 'should export a function', function test() {
