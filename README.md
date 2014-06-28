@@ -4,6 +4,13 @@ Binsearch
 Perform a 1d bin search where bins are defined by an input edge vector.
 
 
+## Installation
+
+``` bash
+$ npm install binsearch
+```
+
+
 ## Examples
 
 ``` javascript
